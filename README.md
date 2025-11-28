@@ -1,15 +1,15 @@
 # launch-control-eco-ypf
 
-# 🚀 Proyecto Launch Control – Desafío ECO YPF
+# Proyecto Launch Control – Desafío ECO YPF
 
 Sistema de control electrónico para mejorar la salida inicial del kart eléctrico del **Proyecto YPF**.  
 Implementa una estrategia de **Launch Control / Control de Tracción** sobre un motor brushless controlado por un ESC.
 
-🧩 Se utiliza una placa **ESP32** para el procesamiento en tiempo real.
+ Se utiliza una placa **ESP32** para el procesamiento en tiempo real.
 
 ---
 
-## 🏁 ¿Qué es el Launch Control?
+##  ¿Qué es el Launch Control?
 
 Es una función que:
 - Controla el deslizamiento de la rueda al arrancar
@@ -17,17 +17,17 @@ Es una función que:
 - Logra una salida más rápida y estable en carrera
 
 Cuando el motor entrega demasiada fuerza al inicio:
-❌ La rueda patina  
-❌ Se pierde aceleración  
-❌ Riesgo de pérdida de control
+ La rueda patina  
+ Se pierde aceleración  
+ Riesgo de pérdida de control
 
 El Launch Control **mantiene el motor justo al límite del agarre**.
 
 ---
 
-## 🔧 Método de Control
+##  Método de Control
 
-### 🔹 Sensores utilizados
+###  Sensores utilizados
 
 | Variable medida | Sensor | Uso |
 |---|---|---|
@@ -37,7 +37,7 @@ El Launch Control **mantiene el motor justo al límite del agarre**.
 
 ---
 
-### 🔹 Cálculo del *Slip* (deslizamiento)
+###  Cálculo del *Slip* (deslizamiento)
 
 Permite saber si la rueda patina:
 
