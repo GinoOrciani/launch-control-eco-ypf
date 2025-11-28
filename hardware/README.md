@@ -6,7 +6,7 @@ Este directorio contiene toda la información de **hardware** utilizada en el pr
 
 - `BOM_launch_control.md`: lista de materiales (componentes electrónicos y sensores).
 - `esquematico_launch_control.png`: diagrama de conexión entre ESP32, sensores y ESC.
-- `notas_conexion.md` (opcional): descripción de pines y señales.
+
 
 ## Descripción general del hardware
 
