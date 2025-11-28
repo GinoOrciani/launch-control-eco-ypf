@@ -14,7 +14,7 @@ Este directorio contiene toda la documentación requerida para el Proyecto Final
 ### 2️⃣ Manual de Usuario
 - Pasos para activar el Launch Control
 - Parámetros configurables
-- Seguridad y advertencias ⚠️
+- Seguridad y advertencias 
 
 ### 3️⃣ Informe Final
 - Explicación completa del control PID
