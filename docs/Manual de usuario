@@ -1,0 +1,52 @@
+## 🕹️ Manual de Usuario — Launch Control
+
+El sistema Launch Control ayuda al vehículo a arrancar con mayor tracción,
+regulando automáticamente la aceleración del motor hasta alcanzar la velocidad deseada.
+
+---
+
+### 🚗 ¿Cómo se usa?
+
+1️⃣ Encender el vehículo y el sistema eléctrico principal  
+2️⃣ Activar el Launch Control desde el interruptor asignado  
+3️⃣ Mantener presionado el acelerador al 100%  
+4️⃣ El sistema mantendrá la aceleración controlada automáticamente  
+5️⃣ Cuando el vehículo supere la velocidad programada → el control se desactiva  
+6️⃣ El conductor continúa acelerando normalmente
+
+---
+
+### 📌 Parámetros configurables
+
+| Parámetro | Descripción |
+|---------|-------------|
+| RPM objetivo del motor | Velocidad ideal para evitar patinamiento |
+| Slip permitido | % de diferencia entre rueda y motor |
+| Intensidad del arranque | Cuán agresivo es el control |
+
+Estos valores pueden ser configurados desde el firmware previo a la puesta en marcha.
+
+---
+
+### ⚠️ Precauciones
+
+- No utilizar sobre superficies inestables o con poca visibilidad  
+- El sistema se debe probar primero en zona controlada  
+- Si el motor presenta vibraciones o ruidos inusuales → **desactivar inmediatamente**  
+- Mantener el cableado y el sensor hall correctamente fijados  
+
+---
+
+### 🔄 Recuperación de fallos
+
+Si el vehículo no acelera correctamente:
+- Comprobar conexión al ESC
+- Revisar sensores de RPM
+- Resetear la alimentación del microcontrolador
+
+---
+
+### 🎯 Beneficio principal
+
+> Maximiza la tracción inicial y reduce el patinamiento del neumático 🚀
+
