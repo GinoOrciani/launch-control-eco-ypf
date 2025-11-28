@@ -1,4 +1,4 @@
-# 🧠 Source Code — Firmware Launch Control
+# — Firmware Launch Control
 
 Este directorio contiene los archivos fuente del firmware que controla:
 
