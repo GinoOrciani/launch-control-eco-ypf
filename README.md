@@ -1,5 +1,4 @@
 # launch-control-eco-ypf
-![Uploading image.png…]()
 
 # 🚀 Proyecto Launch Control – Desafío ECO YPF
 
