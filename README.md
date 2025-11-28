@@ -1,4 +1,6 @@
 # launch-control-eco-ypf
+![Uploading image.png…]()
+
 # 🚀 Proyecto Launch Control – Desafío ECO YPF
 
 Sistema de control electrónico para mejorar la salida inicial del kart eléctrico del **Proyecto YPF**.  
