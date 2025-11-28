@@ -16,7 +16,7 @@ Este directorio contiene toda la documentación requerida para el Proyecto Final
 - Parámetros configurables
 - Seguridad y advertencias 
 
-### 3️ Informe Final
+###  Informe Final
 - Explicación completa del control PID
 - Integración con ESP32 y ESC brushless
 - Resultados de pruebas
