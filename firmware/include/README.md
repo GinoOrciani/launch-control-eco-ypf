@@ -1,4 +1,4 @@
-# 📑 Include — Firmware Launch Control
+#  Include — Firmware Launch Control
 
 Este directorio contiene los archivos de cabecera utilizados por el firmware del sistema Launch Control.
 
