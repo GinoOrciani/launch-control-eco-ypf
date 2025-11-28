@@ -1,55 +1,54 @@
-# Manual de usuario
+# 📘 Manual de Usuario – Launch Control
 
-
-## 🕹️ Manual de Usuario — Launch Control
-
-El sistema Launch Control ayuda al vehículo a arrancar con mayor tracción,
-regulando automáticamente la aceleración del motor hasta alcanzar la velocidad deseada.
+El sistema **Launch Control** permite al vehículo arrancar con mayor tracción,  
+controlando la aceleración del motor hasta alcanzar la velocidad deseada.
 
 ---
 
-### 🚗 ¿Cómo se usa?
+## 🚗 ¿Cómo se usa?
 
-1️⃣ Encender el vehículo y el sistema eléctrico principal  
-2️⃣ Activar el Launch Control desde el interruptor asignado  
-3️⃣ Mantener presionado el acelerador al 100%  
-4️⃣ El sistema mantendrá la aceleración controlada automáticamente  
-5️⃣ Cuando el vehículo supere la velocidad programada → el control se desactiva  
+1️⃣ **Encender el vehículo** y el sistema eléctrico principal  
+2️⃣ **Activar el Launch Control** desde el interruptor asignado  
+3️⃣ **Mantener presionado el acelerador al 100%**  
+4️⃣ El sistema controlará automáticamente la aceleración  
+5️⃣ Una vez que el vehículo supere la velocidad programada  
+ ➡️ el control se desactiva automáticamente  
 6️⃣ El conductor continúa acelerando normalmente
 
 ---
 
-### 📌 Parámetros configurables
+## ⚙️ Parámetros configurables
 
 | Parámetro | Descripción |
-|---------|-------------|
-| RPM objetivo del motor | Velocidad ideal para evitar patinamiento |
+|----------|-------------|
+| RPM objetivo del motor | Velocidad óptima para evitar patinamiento |
 | Slip permitido | % de diferencia entre rueda y motor |
-| Intensidad del arranque | Cuán agresivo es el control |
+| Intensidad de arranque | Qué tan agresivo es el control |
 
-Estos valores pueden ser configurados desde el firmware previo a la puesta en marcha.
-
----
-
-### ⚠️ Precauciones
-
-- No utilizar sobre superficies inestables o con poca visibilidad  
-- El sistema se debe probar primero en zona controlada  
-- Si el motor presenta vibraciones o ruidos inusuales → **desactivar inmediatamente**  
-- Mantener el cableado y el sensor hall correctamente fijados  
+> 🔧 Estos valores pueden configurarse desde el firmware antes de usar el sistema.
 
 ---
 
-### 🔄 Recuperación de fallos
+## 🔒 Seguridad y advertencias
 
-Si el vehículo no acelera correctamente:
-- Comprobar conexión al ESC
-- Revisar sensores de RPM
-- Resetear la alimentación del microcontrolador
+⚠️ Usar únicamente en **entornos controlados**  
+⚠️ Prohibido en **vía pública**  
+⚠️ Asegurar que el vehículo esté en buen estado mecánico  
+⚠️ El conductor debe tener conocimientos de conducción deportiva
 
 ---
 
-### 🎯 Beneficio principal
+## 🧪 Mantenimiento y pruebas
 
-> Maximiza la tracción inicial y reduce el patinamiento del neumático 🚀
+- Verificar sensores conectados
+- Confirmar calibración del acelerador
+- Chequear que no existan errores en el firmware
+- Probar el sistema con el vehículo en estático antes de usarlo en pista
+
+---
+
+## 📩 Soporte
+
+En caso de fallas o consultas, contactar al equipo desarrollador del proyecto:  
+**– Proyecto Launch Control | Desafío YPF**
 
