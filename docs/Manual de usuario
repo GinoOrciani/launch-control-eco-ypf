@@ -1,23 +1,23 @@
-# 📘 Manual de Usuario – Launch Control
+#  Manual de Usuario – Launch Control
 
 El sistema **Launch Control** permite al vehículo arrancar con mayor tracción,  
 controlando la aceleración del motor hasta alcanzar la velocidad deseada.
 
 ---
 
-## 🚗 ¿Cómo se usa?
+## ¿Cómo se usa?
 
-1️⃣ **Encender el vehículo** y el sistema eléctrico principal  
-2️⃣ **Activar el Launch Control** desde el interruptor asignado  
-3️⃣ **Mantener presionado el acelerador al 100%**  
-4️⃣ El sistema controlará automáticamente la aceleración  
-5️⃣ Una vez que el vehículo supere la velocidad programada  
- ➡️ el control se desactiva automáticamente  
-6️⃣ El conductor continúa acelerando normalmente
+ **Encender el vehículo** y el sistema eléctrico principal  
+ **Activar el Launch Control** desde el interruptor asignado  
+ **Mantener presionado el acelerador al 100%**  
+ El sistema controlará automáticamente la aceleración  
+ Una vez que el vehículo supere la velocidad programada  
+ el control se desactiva automáticamente  
+ El conductor continúa acelerando normalmente
 
 ---
 
-## ⚙️ Parámetros configurables
+##  Parámetros configurables
 
 | Parámetro | Descripción |
 |----------|-------------|
@@ -25,20 +25,20 @@ controlando la aceleración del motor hasta alcanzar la velocidad deseada.
 | Slip permitido | % de diferencia entre rueda y motor |
 | Intensidad de arranque | Qué tan agresivo es el control |
 
-> 🔧 Estos valores pueden configurarse desde el firmware antes de usar el sistema.
+>  Estos valores pueden configurarse desde el firmware antes de usar el sistema.
 
 ---
 
-## 🔒 Seguridad y advertencias
+##  Seguridad y advertencias
 
-⚠️ Usar únicamente en **entornos controlados**  
-⚠️ Prohibido en **vía pública**  
-⚠️ Asegurar que el vehículo esté en buen estado mecánico  
-⚠️ El conductor debe tener conocimientos de conducción deportiva
+ Usar únicamente en **entornos controlados**  
+ Prohibido en **vía pública**  
+ Asegurar que el vehículo esté en buen estado mecánico  
+ El conductor debe tener conocimientos de conducción deportiva
 
 ---
 
-## 🧪 Mantenimiento y pruebas
+##  Mantenimiento y pruebas
 
 - Verificar sensores conectados
 - Confirmar calibración del acelerador
@@ -47,7 +47,7 @@ controlando la aceleración del motor hasta alcanzar la velocidad deseada.
 
 ---
 
-## 📩 Soporte
+##  Soporte
 
 En caso de fallas o consultas, contactar al equipo desarrollador del proyecto:  
 **– Proyecto Launch Control | Desafío YPF**
